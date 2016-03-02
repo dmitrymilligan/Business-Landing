@@ -10,6 +10,10 @@ body {
 	margin: 0 auto;
 }
 
+.centered {
+	text-align: center;
+}
+
 ul {
 	margin: 0;
 	padding: 0;
